@@ -7,5 +7,6 @@ class Main {
     citta1.start();
     citta2.start();
     citta3.start();
+    
   }
 }
